@@ -1,0 +1,27 @@
+plugins = []
+headers = []
+redirects = []
+
+[functions]
+
+[functions."*"]
+
+[build]
+publish = "C:\\Users\\kalil\\Desktop\\my-project\\Yassin\\clients\\stage-11-helsinki"
+publishOrigin = "config"
+commandOrigin = "ui"
+base = "C:\\Users\\kalil\\Desktop\\my-project\\Yassin\\clients\\stage-11-helsinki"
+
+[build.environment]
+
+[build.processing]
+
+[build.processing.css]
+
+[build.processing.html]
+
+[build.processing.images]
+
+[build.processing.js]
+
+[build.services]
